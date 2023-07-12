@@ -1,0 +1,10 @@
+<!--pages/info/info.wxml-->
+<text style="position: relative; left: 0rpx; top: -155rpx; font-size: 100rpx">登录</text>
+<view style="width: 750rpx; height: 298rpx; display: block; box-sizing: border-box">
+ <view style="position: relative; left: 0rpx; top: 654rpx; width: 750rpx; height: 50rpx; display: block; box-sizing: border-box; font-size: 50rpx">(自动注册)</view>
+ <view style="position: relative; left: 0rpx; top: 199rpx">手机号码</view>
+ <view style="position: relative; left: 0rpx; top: 366rpx; width: 750rpx; height: -176rpx; display: block; box-sizing: border-box">验证码</view>
+ <input style="position: relative; width: 750rpx; height: 75rpx; display: block; box-sizing: border-box; left: 0rpx; top: 150rpx" type="text" placeholder="请输入"/>
+ <input style="position: relative; width: 750rpx; height: 75rpx; display: block; box-sizing: border-box; left: 0rpx; top: 291rpx" type="text" placeholder="请输入"/>
+</view>
+<image src="/images/1/1.jpg" style="width: 750rpx; height: 1182rpx; display: inline-block; box-sizing: border-box; position: relative; left: 0rpx; top: -430rpx;z-index: -1;opacity: 0.4;"></image>
